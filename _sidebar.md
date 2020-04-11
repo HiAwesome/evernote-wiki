@@ -1,6 +1,6 @@
 # Evernote
 
-* [微言论](1/微言论.md)
+* [微言论](1/微言论)
 * [中长文](https://github.com/moqimoqidea/evernote/wiki/%E4%B8%AD%E9%95%BF%E6%96%87)
 * [Chrome 插件](https://github.com/moqimoqidea/evernote/wiki/Chrome-%E6%8F%92%E4%BB%B6)
 * [JetBrain 经验](https://github.com/moqimoqidea/evernote/wiki/JetBrain-%E7%BB%8F%E9%AA%8C)
