@@ -4,3 +4,7 @@
 * 理解 Linux 的硬链接与软链接: [self](https://www.ibm.com/developerworks/cn/linux/l-cn-hardandsymb-links/index.html), [local](/mhtml/理解%20Linux%20的硬链接与软链接.mhtml).
 
 
+# 呓语
+
+* 人生的六个阶段 潜龙勿用、见龙在田、终日乾乾、或跃在渊、飞龙在天、亢龙有悔：[self](https://www.douban.com/note/482117203/), [local](/mhtml/人生的六个阶段%20潜龙勿用、见龙在田、终日乾乾、或跃在渊、飞龙在天、亢龙有悔.mhtml).
+
