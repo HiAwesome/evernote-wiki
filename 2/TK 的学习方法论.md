@@ -1,5 +1,3 @@
-[[_TOC_]]
-
 # 总览
 
 来源于 TK 的[一条微博](https://weibo.com/1401527553/FacHzEHFb) 和 [一个知乎回答](https://www.zhihu.com/question/51653098/answer/126853836)。
