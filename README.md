@@ -4,6 +4,7 @@
 * [中长文](1/中长文.md)
 * [Chrome 插件](1/Chrome%20插件.md)
 * [TK 的学习方法论](1/TK%20的学习方法论.md)
+* [WikiHow](1/WikiHow.md)
 
 # Links
 
