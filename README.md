@@ -8,6 +8,7 @@
 
 # Links
 
+* [x] [环球财经:走向质变的中美关系](http://finance.sina.com.cn/review/20101013/17398774055.shtml)
 * [x] [王不见王：赵本山&范伟恩怨始末](https://www.huxiu.com/article/383147.html)
 * [ ] [宅总有理](https://www.huxiu.com/member/2550288.html)
 * [ ] [基于县域官员饮酒行为的实证研究（很有意思的研究）](https://mp.weixin.qq.com/s/HkPDFt9kllPbPUmBVv0ZPA)
