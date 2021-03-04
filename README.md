@@ -19,6 +19,7 @@
 * [ ] [如何科学地给自己「洗脑」？](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652150880&idx=1&sn=f76cf143de788de10c7b22534701fe3b)
 * [ ] [寻找智慧的三类人：读《经验的疆界》](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652150360&idx=1&sn=231f1d27b61c08c0d42362df35a52c6c)
 * [ ] [认知科学给教育工作者的启发](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652150315&idx=1&sn=0573a5f38029d0ced1924337e8b61c8c)
+* [ ] [How to Live Your Best Life as You Age: Age Gracefully](https://www.healthline.com/health/aging-gracefully)
 
 # Author Links
 
