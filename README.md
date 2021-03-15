@@ -1,7 +1,7 @@
 # Home
 
-* [微言论](1/微言论.md)
-* [中长文](1/中长文.md)
+* [MicroSpeech](1/MicroSpeech.md)
+* [LongStory](1/LongStory.md)
 * [Chrome 插件](1/Chrome%20插件.md)
 * [TK 的学习方法论](1/TK%20的学习方法论.md)
 * [WikiHow](1/WikiHow.md)
