@@ -1,5 +1,15 @@
 # 中长文
 
+## Jack Ma VS Colin Huang
+
+我印象中马云和黄峥有一段发言是类似的，在马云的纪录片有，黄峥是写在 Medium 上。
+
+大致的意思，这事我得做，我做不成，给别人提供了经验，别人做成了，也行。
+
+1996年，马云前往北京推销其创建的中国黄页而处处碰壁。其在回家的出租车上说，“我不成功，会有人成功。从马云早年的创业视频来看，马云自身也是认可人民网的这个观念，21世纪是互联网时代，这个行业必然取得成功，自己不成功总有人能成功。当然，这里也表现出马云超越常人的气概。马云表示，不成功也无所谓，至少把概念告诉世人，希望中国人能够早点成功。  ——[人民网观点：“没有所谓的马云时代，只有时代中的马云”，你咋看](https://www.163.com/dy/article/EP1BTBFD053970AR.html)
+
+Our team are probably 20 years behind Alibaba, but I believe we might have a chance to build a different Alibaba in the context of the new online traffic distribution, new forms of user interaction and new international opportunity today. Of course, this statement may seem big now, but if we go step by step, we might make it as well. I’m not just dreaming; I have also done some thorough analysis. First, if you look at the entire e-commerce market, its form is changing dramatically. The success model of Alibaba today is not necessarily the success model for tomorrow. But consumers’ demands are still there and will be amplified. So the market potential is huge. Second, the older generation of entrepreneurs will get old eventually. The young generation or those of us who grow into middle age will eventually come forward to the stage. If not me, it should be some other peers. So what I should do today is to have a peaceful mind, do what I should do on a solid footing, and strive to be the most reliable entrepreneur in my generation.  ——[Pinduoduo: China’s hottest online shopping startup](https://www.scmp.com/abacus/who-what/what/article/3028229/pinduoduo-chinas-hottest-online-shopping-startup)
+
 ## [如果有一天这些嚎停止了](https://weibo.com/1401527553/K5SIt9hSu)
 
 神创造了一个山谷，然后在山谷里创造了 n 个穴居人。神让山谷里每年出产 m 颗脆莓。这就是山谷里唯一的食物。
