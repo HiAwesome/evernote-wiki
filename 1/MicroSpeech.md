@@ -2,6 +2,16 @@
 
 ## 散装
 
+* 过早的优化是万恶之源。Premature optimization is the root of all evil!    ——Donald Knuth
+* 在水里行走和以一个需求规格进行软件开发，有一点是相同的，那就是如果水或需求都被冻结，那么行走和软件开发都会变得容易。Walking on water and developing software from a specification are easy if both are frozen.    ——Edward V Berard
+* Hofstadter 定理：“一件事情总是会花费比你预期更多的时间，就算是你已经考虑过本条Hofstadter 定理”。It always takes longer than you expect, even when you take into account Hofstadter’s Law.     ——Hofstadter’s Law
+* 调试程序的难度是写代码的两倍。因此，只要你的代码写的尽可能的清楚，那么你在调试代码时就不需要那么地有技巧。Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.    ——Brian Kernighan
+* 在编程的时候，我们一定要想像一下，以后维护我们自己的代码的那个人会成为一个有暴力倾向的疯子，并且，他还知道我们住在哪里？Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.    ——Rick Osborne
+* 现代的编程是“程序员努力建一个更大更傻的程序”和“世界正在尝试创造更多更傻的人”之间的一种竞赛，目前为止，后者是赢家。Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.    ——Rich Cook
+* 如果调试程序是一种标准的可以铲除BUG的流程，那么，编程就是把他们放进来的流程。If debugging is the process of removing software bugs, then programming must be the process of putting them in.    ——E. W. Dijkstra
+* 理论上来说，理论和实际是一样的。但实际上来说，他们则不是。In theory, theory and practice are the same. In practice, they’re not.    ——Unknown
+* 说Java好的是因为它跨平台就像好像说肛交好是因为其可以适用于一切性别。Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders.   ——Unknown
+* 爱因期坦说，自然界中的一切一定会有一个简单的解释，因为上帝并不是反复无常和独裁的。当然，不会有什么信仰能程序员像爱因期坦那样感到舒服。Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.    ——Fred Brooks
 * 眼镜蛇效应（Cobra effect）指的是解决某个问题的方案，反而使得该问题恶化。它来自于殖民时期的印度，政府颁布法令说每打死一条眼镜蛇都可以领取赏金。结果，民众为了赏金开始养殖眼镜蛇，政府不得不取消赏金，养殖蛇的人就把蛇都放了，放出去的蛇继而繁殖，反而使得眼镜蛇数量大增。  ——[维基百科](https://zh.wikipedia.org/wiki/%E7%9C%BC%E9%95%9C%E8%9B%87%E6%95%88%E5%BA%94)
 * 有史以来发行的所有美元，几乎有四分之一是在2020年发行的。 ——[《美元的贬值》](https://eriktorenberg.substack.com/p/the-devaluing-of-the-us-dollar)
 * 我早年信过几个自称“想学网络安全不想上学”的人，发了一些入门资料给他们，结果没一个能学下去的。“想学网络安全不想上学”，多半只是不想上学。    教主直接把入门资料发到微博置顶，说不定过几年就能收到几封感谢信。    早年相关在线技术资料和图书都很少，找不到情有可原。现在如果还找不到，那就根本就不适合干这行，以及其它所有需要智力的行业。    ——[TK](https://weibo.com/1401527553/K5PvP50vg)
