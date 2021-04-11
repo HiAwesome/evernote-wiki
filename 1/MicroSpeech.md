@@ -2,6 +2,10 @@
 
 ## 散装
 
+* 在迪士尼玩了一天，发现人类的游乐形式只有三种：原地打转、大起大落，原地打转并大起大落。    ——[徐颈僵了](https://weibo.com/7421094892/K8Wvb2RQ7)
+* 小人固当远，断不可显为仇敌；君子固当亲，亦不可曲为附和。    ——钱氏家训
+* 一个人如果掉进了粪坑，首先要做的事情是把嘴闭上。    ——大张伟
+* 编程是一种低成本让想法转化成可执行项目的途径，编程思维就是将复杂问题分解为多个简单步骤来解决的思维方式。编程和数学密不可分，学编程和学数学可以相辅相成。写程序必须遵循严密的逻辑，可以锻炼逻辑思维。编程过程中不可避免地会遇到bug，在不断调试的过程中，孩子做事会更细心更耐心，也能更好地处理挫折情绪。现在不少孩子有难以戒掉的游戏瘾，学编程时需要自己制作多款游戏，当孩子从开发者的角度去理解游戏，破解游戏的奥秘之后，就会失去对于升级打怪的兴趣了。    ——[在线编程课频现乱象，如何选和怎么学？](https://new.qq.com/omn/20210310/20210310A07GZP00.html)
 * 过早的优化是万恶之源。Premature optimization is the root of all evil!    ——Donald Knuth
 * 在水里行走和以一个需求规格进行软件开发，有一点是相同的，那就是如果水或需求都被冻结，那么行走和软件开发都会变得容易。Walking on water and developing software from a specification are easy if both are frozen.    ——Edward V Berard
 * Hofstadter 定理：“一件事情总是会花费比你预期更多的时间，就算是你已经考虑过本条Hofstadter 定理”。It always takes longer than you expect, even when you take into account Hofstadter’s Law.     ——Hofstadter’s Law
