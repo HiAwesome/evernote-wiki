@@ -2,6 +2,7 @@
 
 ## 散装
 
+* 旅行不是为了看到不同的事物，而是为了学会不同地看待事物。（You don't travel to see different things, you travel to see things differently.）   ——[Ben Davenpor](https://m.facebook.com/HanksWorldWide/photos/pb.160385744474061.-2207520000.1564413746./238546423324659/), 风险投资家
 * 在迪士尼玩了一天，发现人类的游乐形式只有三种：原地打转、大起大落，原地打转并大起大落。    ——[徐颈僵了](https://weibo.com/7421094892/K8Wvb2RQ7)
 * 小人固当远，断不可显为仇敌；君子固当亲，亦不可曲为附和。    ——钱氏家训
 * 一个人如果掉进了粪坑，首先要做的事情是把嘴闭上。    ——大张伟
