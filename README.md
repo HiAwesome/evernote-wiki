@@ -1,6 +1,6 @@
 # Home
 
-* [MicroSpeech](1/MicroSpeech.md)
+* [MicroTalk](1/MicroTalk.md)
 * [LongStory](1/LongStory.md)
 * [Chrome 插件](1/Chrome%20插件.md)
 * [TK 的学习方法论](1/TK%20的学习方法论.md)
