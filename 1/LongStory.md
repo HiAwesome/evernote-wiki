@@ -1,5 +1,9 @@
 # 中长文
 
+## [Apple Style Guide 2020 版新增的关于 China 的指导用法](https://twitter.com/nixzhu/status/1432506461809041411)
+
+![](../images/apple_stype_guide_2020_china.png)
+
 ## [How Kubernetes Wins](https://cmgs.me/life/how-k8s-wins)
 
 前言
