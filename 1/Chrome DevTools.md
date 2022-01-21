@@ -4,3 +4,5 @@
 
 `esc` - is the shortcut,
 or at `menu`(the three dots) click on `show console drawer`
+
+## [Record, replay and measure user flows](https://developer.chrome.com/docs/devtools/recorder/)
