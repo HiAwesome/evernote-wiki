@@ -2,6 +2,8 @@
 
 ## 散装
 
+* 文字很容易被误解，所以写作时，最好写得友好一点。    ——[《远程工作的三大挑战》](https://typeshare.co/matthewweeks/posts/the-top-3-challenges-of-remote-work-and-how-to-overcome-them)
+* 与某些人争论很像在泥泞中与一头猪摔跤；不需要很久，你就会意识到猪喜欢它。    ——[《争论文化》](https://www.kateheddleston.com/blog/argument-cultures-and-unregulated-aggression)
 * 中国北方以种植小麦为主，南方以种植水稻为主。有一种理论，认为水稻需要稻农合作，解决灌溉和水灾，而小麦主要依靠雨水，不需要与其他人合作，所以北方人的个人主义倾向更强一些，南方人则是群体性倾向更强。    ——[《全球范围的南北方差异》](https://www.economist.com/christmas-specials/2021/12/18/north-south-antipathies-endure-around-the-globe)
 * 电子邮件是不同组织之间唯一可靠的通信方式。几乎每个大型企业都有一个内部通信系统（Slack、Microsoft Teams、Discord 等），它们在组织内部或封闭群体中工作得很好，各方面都强于电子邮件。 但是，当你想要进行组织之间的通信、或与外部人员合作时，这些通信系统都不理想，并且无法补救，因为它们都不支持对等网络的联合（federated）。    ——[《电子邮件是互联网的关键基础设施》](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailCriticalInfrastructure)
 * 人类对于霸王龙的所有了解，都来自全世界现存的18个标本。其中只有8个标本的完整程度，超过恐龙身体的50%。    ——[Hacker News 读者](https://news.ycombinator.com/item?id=29647890)
