@@ -2,6 +2,7 @@
 
 ## 散装
 
+* 当我们宣传保护生物多样性的时候，常常被问起，少了一个物种会怎么样？ 对于这个问题，有一个精妙的比喻，中国有那么多汉字，少了一个汉字会怎么样？    ——[植物学家: 周浙昆](https://blog.sciencenet.cn/blog-52727-913389.html)
 * 文字很容易被误解，所以写作时，最好写得友好一点。    ——[《远程工作的三大挑战》](https://typeshare.co/matthewweeks/posts/the-top-3-challenges-of-remote-work-and-how-to-overcome-them)
 * 与某些人争论很像在泥泞中与一头猪摔跤；不需要很久，你就会意识到猪喜欢它。    ——[《争论文化》](https://www.kateheddleston.com/blog/argument-cultures-and-unregulated-aggression)
 * 中国北方以种植小麦为主，南方以种植水稻为主。有一种理论，认为水稻需要稻农合作，解决灌溉和水灾，而小麦主要依靠雨水，不需要与其他人合作，所以北方人的个人主义倾向更强一些，南方人则是群体性倾向更强。    ——[《全球范围的南北方差异》](https://www.economist.com/christmas-specials/2021/12/18/north-south-antipathies-endure-around-the-globe)
