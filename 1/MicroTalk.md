@@ -2,6 +2,7 @@
 
 ## 散装
 
+* 如果有一天，所有的说明文档和设计图纸都消失了，我们仍然会拥有先进的工业文明，因为训练有素的工程师是技术的源泉。但是，如果工程师消失了，再多的文档和图纸都救不了我们，这就像古人拿到图纸也无法制造出汽车。 所以，我们不应将知识产权和工具视为技术进步的最终目的，而应着力于培养更好的科学家、工程师和技术人员。    ——[《将硅再次带回硅谷》](https://future.a16z.com/the-silicon-in-silicon-valley-again/)
 * 当我们宣传保护生物多样性的时候，常常被问起，少了一个物种会怎么样？ 对于这个问题，有一个精妙的比喻，中国有那么多汉字，少了一个汉字会怎么样？    ——[植物学家: 周浙昆](https://blog.sciencenet.cn/blog-52727-913389.html)
 * 文字很容易被误解，所以写作时，最好写得友好一点。    ——[《远程工作的三大挑战》](https://typeshare.co/matthewweeks/posts/the-top-3-challenges-of-remote-work-and-how-to-overcome-them)
 * 与某些人争论很像在泥泞中与一头猪摔跤；不需要很久，你就会意识到猪喜欢它。    ——[《争论文化》](https://www.kateheddleston.com/blog/argument-cultures-and-unregulated-aggression)
