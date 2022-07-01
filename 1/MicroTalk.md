@@ -2,6 +2,11 @@
 
 ## 散装
 
+* 有一句名言：编程是思考，而不是打字。多年编程后，我时常觉得自己打字太多，思考太少。    ——[《如何控制编程的元认知？》](https://lambdaisland.com/blog/2022-02-17-the-fg-command)
+* 新的软件工程师加入团队，对他最简单有效的考核要求，大概就是每周必须有代码合并进入主分支。    ——[《软件工程师最重要的绩效管理规则》](https://staysaasy.com/startups/2022/04/03/performance-management.html)
+* 癌症的可怕之处在于，它是加速发展的。我的一个朋友在几周内，从还有"几年"、到还有"几个月"、再到"几天"。最后一周的病情发展如此之快，以至于我错过了跟他说再见。    ——[Hacker News 读者](https://news.ycombinator.com/item?id=30985795)
+* 我们创业失败的原因是，我们改变了自己的方针，从制造人们想要的产品转向制造我们希望人们想要的产品。    ——[Eric Migicovsky](https://medium.com/@ericmigi/why-pebble-failed-d7be937c6232), 智能手表 Pebble 的创始人
+* 人类的语言就是用来描述问题的接口（interface）。你的语言越清晰准确，就越容易描述问题、解决问题。  ——[《技术含量低一些》](https://www.sequential.dev/posts/be-less-technical/)
 * 一个人必须专攻一些事情才能赚钱。我总是告诉我的孩子：你需要学会某种技能，而且这种技能要强于别人，这样才会有人付钱给你。然后你再付钱请人，帮你做那些你觉得无聊或困难的事情。    ——[Hacker News 读者](https://news.ycombinator.com/item?id=30929422)
 * 有一句古老的工程格言：工期短、质量好、价格便宜，这三项里面你最多只能同时做到两项。    ——[Daring Fireball](https://daringfireball.net/2004/04/spray_on_usability)
 * 语文课总是偏爱讲授那些很美、很有诗意的散文和小说，这是不对的，就像篮球课不应该鼓励学生进行花哨的运球。写作最重要的目标是写得清楚，此后才考虑写得有诗意。    ——David Perell
